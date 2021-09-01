@@ -1,6 +1,5 @@
 # Classes JavaScript
 
-```
 
 Para iniciá-lo, siga os passos abaixo:
 ```bash
